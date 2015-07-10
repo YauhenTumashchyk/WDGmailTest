@@ -1,0 +1,54 @@
+17:02:00,874  INFO main Steps:initBrowser:24 - Browser started
+17:02:02,152  INFO main LoginPage:openPage:42 - Login page opened
+17:02:03,194  INFO main LoginPage:inputUsername:48 - username input performed
+17:02:04,063  INFO main LoginPage:inputPassword:53 - password input performed
+17:03:57,034  INFO main Steps:initBrowser:24 - Browser started
+17:03:58,698  INFO main LoginPage:openPage:42 - Login page opened
+17:03:59,589  INFO main LoginPage:inputUsername:48 - username input performed
+17:04:00,509  INFO main LoginPage:inputPassword:53 - password input performed
+17:05:26,402  INFO main Steps:initBrowser:24 - Browser started
+17:05:28,283  INFO main LoginPage:openPage:42 - Login page opened
+17:05:29,157  INFO main LoginPage:inputUsername:48 - username input performed
+17:05:30,021  INFO main LoginPage:inputPassword:53 - password input performed
+17:06:10,759  INFO main Steps:initBrowser:24 - Browser started
+17:06:12,153  INFO main LoginPage:openPage:42 - Login page opened
+17:06:13,085  INFO main LoginPage:inputUsername:48 - username input performed
+17:06:13,990  INFO main LoginPage:inputPassword:53 - password input performed
+17:06:22,260  INFO main HomePage:sendNewMessage:54 - new message send
+17:19:03,822  INFO main Steps:initBrowser:24 - Browser started
+17:19:04,980  INFO main LoginPage:openPage:42 - Login page opened
+17:19:06,897  INFO main LoginPage:singInMailBox:51 - user signed in
+17:19:17,615  INFO main HomePage:sendNewMessage:54 - new message send
+17:19:17,794  INFO main LoginPage:openPage:42 - Login page opened
+17:20:16,428  INFO main Steps:initBrowser:24 - Browser started
+17:20:18,336  INFO main LoginPage:openPage:42 - Login page opened
+17:20:20,799  INFO main LoginPage:singInMailBox:51 - user signed in
+17:20:34,817  INFO main HomePage:sendNewMessage:54 - new message send
+17:21:42,309  INFO main Steps:initBrowser:24 - Browser started
+17:21:43,578  INFO main LoginPage:openPage:42 - Login page opened
+17:21:45,993  INFO main LoginPage:singInMailBox:51 - user signed in
+17:21:56,340  INFO main HomePage:sendNewMessage:54 - new message send
+17:22:24,262  INFO main Steps:initBrowser:24 - Browser started
+17:22:25,306  INFO main LoginPage:openPage:42 - Login page opened
+17:22:27,106  INFO main LoginPage:singInMailBox:51 - user signed in
+17:22:36,857  INFO main HomePage:sendNewMessage:54 - new message send
+17:23:22,706  INFO main Steps:initBrowser:24 - Browser started
+17:23:23,960  INFO main LoginPage:openPage:42 - Login page opened
+17:23:25,702  INFO main LoginPage:singInMailBox:51 - user signed in
+17:23:33,367  INFO main HomePage:sendNewMessage:54 - new message send
+17:23:33,462  INFO main LoginPage:openPage:42 - Login page opened
+17:24:04,932  INFO main Steps:initBrowser:24 - Browser started
+17:24:05,998  INFO main LoginPage:openPage:42 - Login page opened
+17:24:08,325  INFO main LoginPage:singInMailBox:51 - user signed in
+17:24:16,849  INFO main HomePage:sendNewMessage:54 - new message send
+17:24:16,945  INFO main LoginPage:openPage:42 - Login page opened
+17:27:08,290  INFO main Steps:initBrowser:24 - Browser started
+17:27:09,586  INFO main LoginPage:openPage:42 - Login page opened
+17:27:11,834  INFO main LoginPage:singInMailBox:51 - user signed in
+17:27:21,219  INFO main HomePage:sendNewMessage:54 - new message send
+17:27:21,309  INFO main LoginPage:openPage:42 - Login page opened
+17:28:21,984  INFO main Steps:initBrowser:24 - Browser started
+17:28:23,129  INFO main LoginPage:openPage:42 - Login page opened
+17:28:25,177  INFO main LoginPage:singInMailBox:51 - user signed in
+17:28:33,189  INFO main HomePage:sendNewMessage:54 - new message send
+17:28:33,289  INFO main LoginPage:openPage:42 - Login page opened

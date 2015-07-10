@@ -1,8 +1,5 @@
 package com.epam.wdTestGmail.steps;
 
-import com.epam.kzta2014.pages.CreateNewRepositoryPage;
-import com.epam.kzta2014.pages.LoginPage;
-import com.epam.kzta2014.pages.MainPage;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -11,6 +8,10 @@ import java.util.concurrent.TimeUnit;
 
 public class Steps
 {
+	public WebDriver getDriver() {
+		return driver;
+	}
+
 	private WebDriver driver;
 
 	private final Logger logger = Logger.getLogger(Steps.class);
@@ -23,37 +24,21 @@ public class Steps
 		logger.info("Browser started");
 	}
 
+	public void clearnAllCookie()
+	{
+		driver.manage().deleteAllCookies();
+	}
+
 	public void closeDriver()
 	{
 		driver.quit();
 	}
 
-	public void loginGithub(String username, String password)
-	{
-		LoginPage loginPage = new LoginPage(driver);
-		loginPage.openPage();
-		loginPage.login(username, password);
-	}
+//	public boolean isLoggedIn(String username)
+//	{
+//		LoginPage loginPage = new LoginPage(driver);
+//		return (loginPage.getLoggedInUserName().trim().toLowerCase().equals(username));
+//	}
 
-	public boolean isLoggedIn(String username)
-	{
-		LoginPage loginPage = new LoginPage(driver);
-		return (loginPage.getLoggedInUserName().trim().toLowerCase().equals(username));
-	}
-
-	public boolean createNewRepository(String repositoryName, String repositoryDescription)
-	{
-		MainPage mainPage = new MainPage(driver);
-		mainPage.clickOnCreateNewRepositoryButton();
-		CreateNewRepositoryPage createNewRepositoryPage = new CreateNewRepositoryPage(driver);
-		String expectedRepoName = createNewRepositoryPage.createNewRepository(repositoryName, repositoryDescription);
-		return expectedRepoName.equals(createNewRepositoryPage.getCurrentRepositoryName());
-	}
-
-	public boolean currentRepositoryIsEmpty()
-	{
-		CreateNewRepositoryPage createNewRepositoryPage = new CreateNewRepositoryPage(driver);
-		return createNewRepositoryPage.isCurrentRepositoryEmpty();
-	}
 
 }
