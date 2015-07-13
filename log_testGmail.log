@@ -52,3 +52,160 @@
 17:28:25,177  INFO main LoginPage:singInMailBox:51 - user signed in
 17:28:33,189  INFO main HomePage:sendNewMessage:54 - new message send
 17:28:33,289  INFO main LoginPage:openPage:42 - Login page opened
+12:15:59,238  INFO main Steps:initBrowser:24 - Browser started
+12:16:00,856  INFO main LoginPage:openPage:42 - Login page opened
+12:16:02,934  INFO main LoginPage:singInMailBox:51 - user signed in
+12:16:15,178  INFO main HomePage:sendNewMessage:54 - new message send
+12:16:19,783  INFO main LoginPage:openPage:42 - Login page opened
+12:18:10,891  INFO main Steps:initBrowser:24 - Browser started
+12:18:12,103  INFO main LoginPage:openPage:42 - Login page opened
+12:18:14,348  INFO main LoginPage:singInMailBox:51 - user signed in
+12:18:24,551  INFO main HomePage:sendNewMessage:54 - new message send
+12:18:24,889  INFO main LoginPage:openPage:42 - Login page opened
+12:29:43,741  INFO main Steps:initBrowser:24 - Browser started
+12:29:45,527  INFO main LoginPage:openPage:42 - Login page opened
+12:29:47,687  INFO main LoginPage:singInMailBox:51 - user signed in
+12:29:57,397  INFO main HomePage:sendNewMessage:54 - new message send
+12:29:57,570  INFO main LoginPage:openPage:42 - Login page opened
+12:30:36,145  INFO main Steps:initBrowser:24 - Browser started
+12:30:37,210  INFO main LoginPage:openPage:42 - Login page opened
+12:30:38,973  INFO main LoginPage:singInMailBox:51 - user signed in
+12:30:46,858  INFO main HomePage:sendNewMessage:54 - new message send
+12:30:47,066  INFO main LoginPage:openPage:42 - Login page opened
+12:51:43,833  INFO main Steps:initBrowser:24 - Browser started
+12:51:44,963  INFO main LoginPage:openPage:42 - Login page opened
+12:51:47,161  INFO main LoginPage:singInMailBox:51 - user signed in
+12:55:19,060  INFO main Steps:initBrowser:24 - Browser started
+12:55:20,094  INFO main LoginPage:openPage:42 - Login page opened
+12:55:22,037  INFO main LoginPage:singInMailBox:51 - user signed in
+12:55:31,190  INFO main LoginPage:openPage:42 - Login page opened
+13:15:46,763  INFO main Steps:initBrowser:24 - Browser started
+13:15:47,970  INFO main LoginPage:openPage:42 - Login page opened
+13:15:49,735  INFO main LoginPage:singInMailBox:51 - user signed in
+13:20:01,653  INFO main Steps:initBrowser:24 - Browser started
+13:20:03,033  INFO main LoginPage:openPage:42 - Login page opened
+13:20:05,226  INFO main LoginPage:singInMailBox:51 - user signed in
+13:20:15,358  INFO main HomePage:sendNewMessage:66 - new message send
+13:22:32,008  INFO main Steps:initBrowser:24 - Browser started
+13:22:33,254  INFO main LoginPage:openPage:42 - Login page opened
+13:22:35,043  INFO main LoginPage:singInMailBox:51 - user signed in
+13:22:44,512  INFO main HomePage:sendNewMessage:66 - new message send
+13:22:45,090  INFO main HomePage:singOut:74 - user singed out
+13:30:58,144  INFO main Steps:initBrowser:24 - Browser started
+13:30:59,543  INFO main LoginPage:openPage:42 - Login page opened
+13:31:01,358  INFO main LoginPage:singInMailBox:51 - user signed in
+13:31:08,982  INFO main HomePage:sendNewMessage:66 - new message send
+13:31:10,682  INFO main HomePage:singOut:76 - user singed out
+13:31:12,858  INFO main LoginPage:openPage:42 - Login page opened
+13:31:13,901  INFO main LoginPage:singInMailBox:51 - user signed in
+13:32:21,040  INFO main Steps:initBrowser:24 - Browser started
+13:32:22,203  INFO main LoginPage:openPage:42 - Login page opened
+13:32:23,949  INFO main LoginPage:singInMailBox:51 - user signed in
+13:32:33,991  INFO main HomePage:sendNewMessage:67 - new message send
+13:39:12,434  INFO main Steps:initBrowser:24 - Browser started
+13:39:13,499  INFO main LoginPage:openPage:42 - Login page opened
+13:39:15,261  INFO main LoginPage:singInMailBox:51 - user signed in
+13:39:23,579  INFO main HomePage:sendNewMessage:67 - new message send
+13:39:24,018  INFO main HomePage:singOut:75 - user singed out
+13:43:49,995  INFO main Steps:initBrowser:24 - Browser started
+13:43:51,447  INFO main LoginPage:openPage:42 - Login page opened
+13:43:53,137  INFO main LoginPage:singInMailBox:51 - user signed in
+13:44:01,046  INFO main HomePage:sendNewMessage:67 - new message send
+13:44:01,717  INFO main HomePage:singOut:78 - user singed out
+13:46:25,677  INFO main Steps:initBrowser:25 - Browser started
+13:46:26,940  INFO main LoginPage:openPage:42 - Login page opened
+13:46:28,713  INFO main LoginPage:singInMailBox:51 - user signed in
+13:46:37,426  INFO main HomePage:sendNewMessage:67 - new message send
+13:46:37,865  INFO main HomePage:singOut:74 - user singed out
+13:48:42,655  INFO main Steps:initBrowser:25 - Browser started
+13:48:43,831  INFO main LoginPage:openPage:42 - Login page opened
+13:48:45,711  INFO main LoginPage:singInMailBox:51 - user signed in
+13:48:49,909  INFO main HomePage:singOut:74 - user singed out
+13:49:56,362  INFO main Steps:initBrowser:24 - Browser started
+13:49:57,781  INFO main LoginPage:openPage:42 - Login page opened
+13:49:59,682  INFO main LoginPage:singInMailBox:51 - user signed in
+13:50:05,801  INFO main HomePage:singOut:76 - user singed out
+13:51:23,189  INFO main Steps:initBrowser:24 - Browser started
+13:51:24,385  INFO main LoginPage:openPage:42 - Login page opened
+13:51:26,166  INFO main LoginPage:singInMailBox:51 - user signed in
+13:51:35,626  INFO main HomePage:sendNewMessage:71 - new message send
+13:51:37,834  INFO main HomePage:singOut:80 - user singed out
+13:52:01,935  INFO main Steps:initBrowser:24 - Browser started
+13:52:03,021  INFO main LoginPage:openPage:42 - Login page opened
+13:52:04,805  INFO main LoginPage:singInMailBox:51 - user signed in
+13:52:13,156  INFO main HomePage:sendNewMessage:71 - new message send
+13:52:15,436  INFO main HomePage:singOut:80 - user singed out
+13:52:28,745  INFO main Steps:initBrowser:24 - Browser started
+13:52:29,874  INFO main LoginPage:openPage:42 - Login page opened
+13:52:31,879  INFO main LoginPage:singInMailBox:51 - user signed in
+13:52:39,566  INFO main HomePage:sendNewMessage:71 - new message send
+13:52:41,874  INFO main HomePage:singOut:80 - user singed out
+13:53:17,790  INFO main Steps:initBrowser:24 - Browser started
+13:53:19,068  INFO main LoginPage:openPage:42 - Login page opened
+13:53:20,978  INFO main LoginPage:singInMailBox:51 - user signed in
+13:53:29,429  INFO main HomePage:sendNewMessage:71 - new message send
+13:53:31,772  INFO main HomePage:singOut:80 - user singed out
+13:53:51,044  INFO main Steps:initBrowser:24 - Browser started
+13:53:52,341  INFO main LoginPage:openPage:42 - Login page opened
+13:53:54,046  INFO main LoginPage:singInMailBox:51 - user signed in
+13:54:02,083  INFO main HomePage:sendNewMessage:71 - new message send
+13:57:16,943  INFO main Steps:initBrowser:24 - Browser started
+13:57:18,223  INFO main LoginPage:openPage:42 - Login page opened
+13:57:20,310  INFO main LoginPage:singInMailBox:51 - user signed in
+13:57:27,817  INFO main HomePage:sendNewMessage:71 - new message send
+13:57:30,222  INFO main HomePage:singOut:80 - user singed out
+13:57:30,809  INFO main LoginPage:openPage:42 - Login page opened
+13:57:31,916  INFO main LoginPage:singInMailBox:51 - user signed in
+15:23:43,239  INFO main Steps:initBrowser:24 - Browser started
+15:23:51,502  INFO main LoginPage:openPage:45 - Login page opened
+15:23:56,430  INFO main LoginPage:singInMailBox:54 - user 23webdriveruser@gmail.com signed in
+15:34:37,200  INFO main Steps:initBrowser:24 - Browser started
+15:34:39,076  INFO main LoginPage:openPage:42 - Login page opened
+15:34:40,904  INFO main LoginPage:singInMailBox:51 - user 23webdriveruser@gmail.com signed in
+16:03:45,802  INFO main Steps:initBrowser:24 - Browser started
+16:03:47,114  INFO main LoginPage:openPage:42 - Login page opened
+16:03:49,309  INFO main LoginPage:singInMailBox:51 - user 23webdriveruser@gmail.com signed in
+16:05:50,222  INFO main Steps:initBrowser:24 - Browser started
+16:05:51,375  INFO main LoginPage:openPage:42 - Login page opened
+16:05:53,469  INFO main LoginPage:singInMailBox:51 - user 23webdriveruser@gmail.com signed in
+16:05:53,470  INFO main HomePage:markLetterSpam:83 - markLetterSpam method begin
+16:27:12,824  INFO main Steps:initBrowser:24 - Browser started
+16:27:14,424  INFO main LoginPage:openPage:42 - Login page opened
+16:27:16,633  INFO main LoginPage:singInMailBox:51 - user 23webdriveruser@gmail.com signed in
+16:27:16,634  INFO main HomePage:markLetterSpam:84 - markLetterSpam method begin
+16:29:22,668  INFO main Steps:initBrowser:24 - Browser started
+16:29:23,913  INFO main LoginPage:openPage:42 - Login page opened
+16:29:26,043  INFO main LoginPage:singInMailBox:51 - user 23webdriveruser@gmail.com signed in
+16:29:26,044  INFO main HomePage:markLetterSpam:85 - markLetterSpam method begin
+17:13:33,200  INFO main Steps:initBrowser:33 - Browser started
+17:13:34,813  INFO main LoginPage:openPage:42 - Login page opened
+17:13:36,606  INFO main LoginPage:singInMailBox:51 - user 13webdriveruser@gmail.com signed in
+17:13:48,546  INFO main HomePage:sendNewMessage:80 - new message send
+17:15:40,100  INFO main Steps:initBrowser:33 - Browser started
+17:15:41,469  INFO main LoginPage:openPage:42 - Login page opened
+17:15:43,702  INFO main LoginPage:singInMailBox:51 - user 13webdriveruser@gmail.com signed in
+17:15:52,861  INFO main HomePage:sendNewMessage:80 - new message send
+17:18:20,627  INFO main Steps:initBrowser:33 - Browser started
+17:18:22,058  INFO main LoginPage:openPage:42 - Login page opened
+17:18:23,982  INFO main LoginPage:singInMailBox:51 - user 13webdriveruser@gmail.com signed in
+17:18:35,353  INFO main HomePage:sendNewMessage:79 - new message send
+17:20:11,177  INFO main Steps:initBrowser:33 - Browser started
+17:20:12,689  INFO main LoginPage:openPage:42 - Login page opened
+17:20:14,481  INFO main LoginPage:singInMailBox:51 - user 13webdriveruser@gmail.com signed in
+17:20:27,137  INFO main HomePage:sendNewMessage:79 - new message send
+17:20:31,245  INFO main HomePage:singOut:112 - user singed out
+17:20:31,763  INFO main LoginPage:openPage:42 - Login page opened
+17:20:33,034  INFO main LoginPage:singInMailBox:51 - user 23webdriveruser@gmail.com signed in
+17:20:33,034  INFO main HomePage:markLetterSpam:84 - markLetterSpam method begin
+17:20:47,646  INFO main HomePage:singOut:112 - user singed out
+17:20:48,168  INFO main LoginPage:openPage:42 - Login page opened
+17:20:49,231  INFO main LoginPage:singInMailBox:51 - user 13webdriveruser@gmail.com signed in
+17:20:58,874  INFO main HomePage:sendNewMessage:79 - new message send
+17:21:01,913  INFO main HomePage:singOut:112 - user singed out
+17:21:02,449  INFO main LoginPage:openPage:42 - Login page opened
+17:21:03,461  INFO main LoginPage:singInMailBox:51 - user 23webdriveruser@gmail.com signed in
+17:22:03,764  INFO main Steps:initBrowser:33 - Browser started
+17:22:05,116  INFO main LoginPage:openPage:42 - Login page opened
+17:22:07,091  INFO main LoginPage:singInMailBox:51 - user 13webdriveruser@gmail.com signed in
+17:22:20,780  INFO main HomePage:sendNewMessage:79 - new message send
+17:22:24,486  INFO main HomePage:singOut:110 - user singed out

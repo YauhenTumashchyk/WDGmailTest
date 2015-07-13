@@ -36,7 +36,6 @@ public class LoginPage extends AbstractPage {
         PageFactory.initElements(driver, this);
     }
 
-    @Override
     public void openPage() {
         driver.navigate().to(BASE_URL);
         logger.info("Login page opened");
@@ -48,10 +47,12 @@ public class LoginPage extends AbstractPage {
         inputPassword.sendKeys(password);
         buttontSingIn.click();
 
-        logger.info("user signed in");
+        logger.info("user " + username + " signed in");
 
         return new HomePage(this.driver);
     }
+
+
 
     public String getUserName() {
         return linkLoggedInUser.getText();
