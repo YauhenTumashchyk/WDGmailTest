@@ -84,20 +84,16 @@ public class HomePage extends AbstractPage {
         List<WebElement> checkbox = driver.findElements(By.xpath("//div[@role='checkbox']"));
         String username;
 
-        if(mail.size()!=0) {
-            for (int i = 0; i < mail.size(); i++) {
-                username = mail.get(i).getAttribute("email");
-                if (username.equals(userToSpam)) {
-                    checkbox.get(i).click();
-                }
 
+        for (int i = 0; i < mail.size(); i++) {
+            username = mail.get(i).getAttribute("email");
+            if (username.equals(userToSpam)) {
+                checkbox.get(i).click();
             }
 
-            driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-            buttonInSpam.click();
-        }else{
-            return;
         }
+        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        buttonInSpam.click();
 
     }
 
@@ -111,7 +107,7 @@ public class HomePage extends AbstractPage {
         buttonUserMenu.click();
         buttonSingOut.click();
         driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
-        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+//        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.manage().deleteAllCookies();
 
         logger.info("user singed out");
