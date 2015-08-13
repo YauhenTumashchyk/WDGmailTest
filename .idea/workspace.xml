@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae8f3154-403d-45a4-8e35-a692e173521d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/utils/Utils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/epam/wdTestGmail/tests/GmailTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/wdTestGmail/tests/GmailTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/epam/wdTestGmail/pages/HomePage.class" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/wdTestGmail/pages/HomePage.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/epam/wdTestGmail/pages/LoginPage.class" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/wdTestGmail/pages/LoginPage.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/epam/wdTestGmail/steps/Steps.class" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/wdTestGmail/steps/Steps.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/pages/AbstractPage.java" afterPath="$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/pages/AbstractPage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/tests/GmailTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/tests/GmailTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/pages/HomePage.java" afterPath="$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/pages/HomePage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/pages/LoginPage.java" afterPath="$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/pages/LoginPage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/steps/Steps.java" afterPath="$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/steps/Steps.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WDGmailTest.iml" afterPath="$PROJECT_DIR$/WDGmailTest.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log_testGmail.log" afterPath="$PROJECT_DIR$/log_testGmail.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WDGmailTest.iws" />
@@ -27,11 +39,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="GmailTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GmailTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/tests/GmailTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8767908">
-              <caret line="18" column="63" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="63" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,12 +51,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HomePage.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HomePage.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/pages/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="103" column="16" selection-start-line="103" selection-start-column="16" selection-end-line="103" selection-end-column="16" />
-              <folding />
+            <state vertical-scroll-proportion="1.3550725">
+              <caret line="82" column="99" selection-start-line="82" selection-start-column="62" selection-end-line="82" selection-end-column="99" />
+              <folding>
+                <element signature="e#1954#1955#0" expanded="true" />
+                <element signature="e#1994#1995#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,7 +68,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/pages/LoginPage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+              <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,9 +80,11 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/steps/Steps.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+              <caret line="54" column="45" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1729#1730#0" expanded="true" />
+                <element signature="e#1758#1759#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -108,8 +125,8 @@
         <option value="$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/tests/GmailTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/pages/AbstractPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/pages/LoginPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/steps/Steps.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/steps/Steps.java" />
       </list>
     </option>
   </component>
@@ -163,6 +180,30 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="WDGmailTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WDGmailTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WDGmailTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WDGmailTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WDGmailTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -503,16 +544,16 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287827" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992035" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5711035" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18316269" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27346277" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1788026" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -555,44 +596,6 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/tests/GmailTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/pages/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/pages/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/steps/Steps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="54" column="45" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/tests/GmailTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -604,6 +607,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -621,7 +625,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
-          <folding />
+          <folding>
+            <element signature="e#1954#1955#0" expanded="true" />
+            <element signature="e#1994#1995#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -631,6 +638,8 @@
           <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1729#1730#0" expanded="true" />
+            <element signature="e#1758#1759#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -647,6 +656,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -670,6 +680,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -708,6 +719,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.5120482">
           <caret line="115" column="9" selection-start-line="115" selection-start-column="9" selection-end-line="115" selection-end-column="9" />
+          <folding>
+            <element signature="e#3949#3950#0" expanded="false" />
+            <element signature="e#4003#4004#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -778,6 +793,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -785,6 +801,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9612221">
           <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -792,6 +809,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.019976499">
           <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -799,6 +817,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.53721684">
           <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -806,6 +825,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6893204">
           <caret line="148" column="0" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -821,6 +841,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.448062">
           <caret line="17" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -828,6 +849,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.21085271">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -839,40 +861,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/pages/LoginPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/tests/GmailTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/pages/HomePage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/pages/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="103" column="16" selection-start-line="103" selection-start-column="16" selection-end-line="103" selection-end-column="16" />
-          <folding />
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/steps/Steps.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <caret line="54" column="45" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1729#1730#0" expanded="true" />
+            <element signature="e#1758#1759#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/tests/GmailTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/epam/wdTestGmail/pages/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8767908">
-          <caret line="18" column="63" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="63" />
+        <state vertical-scroll-proportion="1.3550725">
+          <caret line="82" column="99" selection-start-line="82" selection-start-column="62" selection-end-line="82" selection-end-column="99" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1954#1955#0" expanded="true" />
+            <element signature="e#1994#1995#0" expanded="true" />
           </folding>
         </state>
       </provider>
